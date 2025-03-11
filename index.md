@@ -6,9 +6,7 @@
 ###### Hello 6
 
 
-
-
-
+<img src="https://octodex.github.com/images/yaktocat.png" alt="yocat" width="100" height="100" />
 
 
 
