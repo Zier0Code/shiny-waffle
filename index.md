@@ -5,8 +5,7 @@
 ##### Hello 5
 ###### Hello 6
 
-
-<img src="https://octodex.github.com/images/yaktocat.png" alt="yocat" width="100" height="100" />
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png "Yocat")
 
 
 
